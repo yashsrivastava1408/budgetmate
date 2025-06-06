@@ -1,12 +1,36 @@
-# React + Vite
+# BudgetMate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BudgetMate is a personal income and expense tracker web application built with React and Vite.  
+It helps users manage their household finances by recording income, expenses, unmatched transactions, and providing insightful summaries and charts.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, view, and manage income and expense records  
+- Dashboard with summary statistics and charts  
+- Pages for unmatched bank records and manual matching  
+- User-friendly and responsive UI  
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React  
+- Vite  
+- JavaScript (ES6+)  
+- CSS  
+
+## Live Demo
+
+Check the live demo here:  
+[https://whimsical-torrone-c69520.netlify.app/](https://whimsical-torrone-c69520.netlify.app/)
+
+## Repository
+
+Source code available at:  
+[https://github.com/yashsrivastava1408/budgetmate](https://github.com/yashsrivastava1408/budgetmate)
+
+---
+
+## How to Run Locally
+
+1. Clone the repo:  
+```bash
+git clone https://github.com/yashsrivastava1408/budgetmate.git
