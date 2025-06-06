@@ -34,3 +34,8 @@ Source code available at:
 1. Clone the repo:  
 ```bash
 git clone https://github.com/yashsrivastava1408/budgetmate.git
+
+
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/9dae73e0-34f5-4418-bdeb-6fda2e644520" />
+
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/cd200d70-916e-4218-88b5-4c307101b502" />
